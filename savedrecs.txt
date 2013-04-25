@@ -1,0 +1,454 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Perry, AS
+   O'Hurley, G
+   Raheem, OA
+   Brennan, K
+   Wong, S
+   O'Grady, A
+   Kennedy, AM
+   Marignol, L
+   Murphy, TM
+   Sullivan, L
+   Barrett, C
+   Loftus, B
+   Thornhill, J
+   Hewitt, SM
+   Lawler, M
+   Kay, E
+   Lynch, T
+   Hollywood, D
+AF Perry, A. S.
+   O'Hurley, G.
+   Raheem, O. A.
+   Brennan, K.
+   Wong, S.
+   O'Grady, A.
+   Kennedy, A. M.
+   Marignol, L.
+   Murphy, T. M.
+   Sullivan, L.
+   Barrett, C.
+   Loftus, B.
+   Thornhill, J.
+   Hewitt, S. M.
+   Lawler, M.
+   Kay, E.
+   Lynch, T.
+   Hollywood, D.
+TI Gene expression and epigenetic discovery screen reveal methylation of
+   SFRP2 in prostate cancer (vol 15, pg 1771, 2013)
+SO INTERNATIONAL JOURNAL OF CANCER
+SN 0020-7136
+PD JUN
+PY 2013
+VL 132
+IS 11
+BP E163
+EP E163
+UT CCC:000316824000001
+ER
+
+PT J
+AU Bougen, NM
+   Amiry, N
+   Yuan, Y
+   Kong, XJ
+   Pandey, V
+   Vidal, LJP
+   Perry, JK
+   Zhu, T
+   Lobie, PE
+AF Bougen, N. M.
+   Amiry, N.
+   Yuan, Y.
+   Kong, X. J.
+   Pandey, V.
+   Vidal, L. J. P.
+   Perry, J. K.
+   Zhu, T.
+   Lobie, P. E.
+TI Trefoil factor 1 suppression of E-CADHERIN enhances prostate carcinoma
+   cell invasiveness and metastasis
+SO CANCER LETTERS
+AB Metastasis is the primary mediator of prostate cancer (PCA) lethality
+   and poses a significant clinical obstacle. The identification of factors
+   involved in the metastasis of PCA is imperative. We demonstrate herein
+   that trefoil factor 1 (TFF1) promotes PCA cell migration and invasion in
+   vitro and metastasis in vivo. The capacity of TFF1 to enhance cell
+   migration/invasion is mediated by transcriptional repression of
+   E-CADHERIN. Consideration of targeted inhibition of TFF1 to prevent
+   metastasis of prostate carcinoma is warranted. (c) 2012 Elsevier Ireland
+   Ltd. All rights reserved.
+SN 0304-3835
+PD MAY
+PY 2013
+VL 332
+IS 1
+BP 19
+EP 29
+UT CCC:000316775500004
+ER
+
+PT J
+AU Rebbaa, A
+   Patil, G
+   Yalcin, M
+   Sudha, T
+   Mousa, SA
+AF Rebbaa, Abdelhadi
+   Patil, Ghanshyam
+   Yalcin, Murat
+   Sudha, Thangirala
+   Mousa, Shaker A.
+TI OT-404, multi-targeted anti-cancer agent affecting tumor proliferation,
+   chemo-resistance, and angiogenesis
+SO CANCER LETTERS
+AB There is a need for a comprehensive anti-cancer strategy that
+   simultaneously targets abnormal proliferation, angiogenesis rates, and
+   development of chemotherapy resistance. We have identified a small
+   molecule, OT-404, that effectively inhibited proliferation and
+   angiogenesis of either chemo-sensitive or resistant human cancer cells
+   and enhanced cancer cell sensitivity to different chemotherapy. In vivo
+   studies of human tumor xenografts in nude mice showed that OT-404, used
+   alone or encapsulated into nanoparticles, inhibited the growth of
+   doxorubicin-resistant breast cancer MCF-7 by more than 80%, and by 95%
+   when combined with doxorubicin. These findings provide evidence for the
+   potential of OT-404 in cancer management. (c) 2013 Published by Elsevier
+   Ireland Ltd.
+SN 0304-3835
+PD MAY
+PY 2013
+VL 332
+IS 1
+BP 55
+EP 62
+UT CCC:000316775500008
+ER
+
+PT J
+AU Lopes, A
+   Torres, DB
+   Rodrigues, AJ
+   Cerqueira, JJ
+   Pego, JM
+   Sousa, N
+   Gontijo, JAR
+   Boer, PA
+AF Lopes, A.
+   Torres, D. B.
+   Rodrigues, A. J.
+   Cerqueira, J. J.
+   Pego, J. M.
+   Sousa, N.
+   Gontijo, J. A. R.
+   Boer, P. A.
+TI Gestational protein restriction induces CA3 dendritic atrophy in dorsal
+   hippocampal neurons but does not alter learning and memory performance
+   in adult offspring
+SO INTERNATIONAL JOURNAL OF DEVELOPMENTAL NEUROSCIENCE
+AB Studies have demonstrated that nutrient deficiency during pregnancy or
+   in early postnatal life results in structural abnormalities in the
+   offspring hippocampus and in cognitive impairment. In an attempt to
+   analyze whether gestational protein restriction might induce learning
+   and memory impairments associated with structural changes in the
+   hippocampus, we carried out a detailed morphometric analysis of the
+   hippocampus of male adult rats together with the behavioral
+   characterization of these animals in the Morris water maze (MWM). Our
+   results demonstrate that gestational protein restriction leads to a
+   decrease in total basal dendritic length and in the number of
+   intersections of CA3 pyramidal neurons whereas the cytoarchitecture of
+   CA1 and dentate gyrus remained unchanged. Despite presenting significant
+   structural rearrangements, we did not observe impairments in the MWM
+   test. Considering the clear dissociation between the behavioral profile
+   and the hippocampus neuronal changes, the functional significance of
+   dendritic remodeling in fetal processing remains undisclosed. (c) 2012
+   ISDN. Published by Elsevier Ltd. All rights reserved.
+SN 0736-5748
+PD MAY
+PY 2013
+VL 31
+IS 3
+BP 151
+EP 156
+UT CCC:000316975400001
+ER
+
+PT J
+AU Novak, G
+   Fan, T
+   O'Dowd, BF
+   George, SR
+AF Novak, Gabriela
+   Fan, Theresa
+   O'Dowd, Brian F.
+   George, Susan R.
+TI Postnatal maternal deprivation and pubertal stress have additive effects
+   on dopamine D2 receptor and CaMKII beta expression in the striatum
+SO INTERNATIONAL JOURNAL OF DEVELOPMENTAL NEUROSCIENCE
+AB The goal of this study was to determine whether two stressors commonly
+   used to model aspects of neuropsychiatric disease in rats have an
+   additive effect on striatal dopamine type 2 receptor (D2R) expression, a
+   key player in the etiology of neuropsychiatric disease.
+   Animals subjected to early postnatal stress show alterations in function
+   of the dopaminergic system thought to be mediated by stress-induced
+   glucocorticoid release. Subsequent stress during puberty is known to
+   further impact the dopaminergic system and result in dopaminergic
+   hyperactivity analogous to schizophrenia.
+   We exposed rats to maternal deprivation (MD) during the second postnatal
+   week, a time of active striatal development. A subset of these animals
+   were then subjected to pubertal stress induced by immobilization. Both
+   procedures are know to induce glucocorticoid release.
+   At the conclusion of the MD protocol, we observed upregulation in the
+   expression of D2R and of dopamine- and cAMP-regulated phosphoprotein
+   32-KD (DARPP-32; PPP1R1B), but not of D1R, calcium/calmodulin-dependent
+   protein kinase II beta (CaMKII beta), CaMKII alpha or neurokinin B
+   (NKB).
+   Animals exposed to pubertal stress showed upregulation in expression of
+   both D2R and CaMKII beta. Furthermore, rats previously exposed to MD
+   showed a much greater upregulation in CaMKII beta expression, than
+   animals only exposed to pubertal stress. These results support the
+   two-hit hypothesis, indicating that such stressors have an additive
+   effect. The main targets appear to be the D2R and the CaMKII beta, the
+   latter being an important member of the DR signalling pathway, both of
+   which are associated with schizophrenia. (c) 2013 ISDN. Published by
+   Elsevier Ltd. All rights reserved.
+SN 0736-5748
+PD MAY
+PY 2013
+VL 31
+IS 3
+BP 189
+EP 195
+UT CCC:000316975400006
+ER
+
+PT J
+AU Shin, MS
+   Ko, IG
+   Kim, SE
+   Kim, BK
+   Kim, TS
+   Lee, SH
+   Hwang, DS
+   Kim, CJ
+   Park, JK
+   Lim, BV
+AF Shin, Mal-Soon
+   Ko, Il-Gyu
+   Kim, Sung-Eun
+   Kim, Bo-Kyun
+   Kim, Tae-Soo
+   Lee, Shin-Ho
+   Hwang, Dong-Sup
+   Kim, Chang-Ju
+   Park, Jin-Kook
+   Lim, Baek-Vin
+TI Treadmill exercise ameliorates symptoms of methimazole-induced
+   hypothyroidism through enhancing neurogenesis and suppressing apoptosis
+   in the hippocampus of rat pups
+SO INTERNATIONAL JOURNAL OF DEVELOPMENTAL NEUROSCIENCE
+AB Thyroid hormones play a crucial role in new neuron production and
+   maturation during brain development. Physical exercise is known to
+   promote cell survival and functional recovery after brain injuries. In
+   the present study, we investigated the effects of treadmill exercise on
+   short-term memory, spatial learning ability, neurogenesis, and apoptosis
+   in hypothyroidism rat pups. On the 14th perinatal day, the pregnant rats
+   were divided into two groups: the maternal control group and the
+   maternal methimazole (MMI)-treated group. For the induction of
+   hypothyroidism in rat pups, MMI was added to the drinking water (0.02%,
+   wt/vol), from the 14th prenatal day to the 49th postnatal day. After
+   delivery, the male rat pups born from the maternal control group were
+   assigned into the control group and the control and exercise group. The
+   rat pups born from the maternal MMI-treated group were divided into the
+   hypothyroidism-induction group and the hypothyroidism-induction and
+   treadmill exercise group. The rat pups in the exercise groups were
+   forced to run on a motorized treadmill for 30 min once a day, starting
+   on the 22nd postnatal day for 4 weeks. Induction of hypothyroidism
+   during the fetal and early postnatal period showed suppression of
+   neurogenesis and enhancement of apoptosis in the hippocampus. Short-term
+   memory and spatial learning ability were deteriorated in the
+   hypothyroidism rat pups. Treadmill exercise during the postnatal period
+   increased neurogenesis and inhibited apoptosis, and resulted in the
+   improvement of short-term memory and spatial learning ability in the
+   hypothyroidism rat pups. (c) 2013 ISDN. Published by Elsevier Ltd. All
+   rights reserved.
+SN 0736-5748
+PD MAY
+PY 2013
+VL 31
+IS 3
+BP 214
+EP 223
+UT CCC:000316975400010
+ER
+
+PT J
+AU Lipka, S
+   Katz, S
+   Kaur, N
+AF Lipka, Seth
+   Katz, Seymour
+   Kaur, Navroop
+TI "One more time" 5-ASA retrial after a glucocorticosteroid induced
+   remission in moderate to severe ulcerative colitis: A prospective
+   community practice experience
+SO JOURNAL OF CROHNS & COLITIS
+SN 1873-9946
+PD MAY
+PY 2013
+VL 7
+IS 4
+BP 342
+EP 343
+UT CCC:000316975700012
+ER
+
+PT J
+AU Wei, N
+   Yu, Y
+   Schmidt, T
+   Stanford, C
+   Hong, L
+AF Wei, Na
+   Yu, Yang
+   Schmidt, Thomas
+   Stanford, Clark
+   Hong, Liu
+TI Effects of glucocorticoid receptor antagonist, RU486, on the
+   proliferative and differentiation capabilities of bone marrow
+   mesenchymal stromal cells in ovariectomized rats
+SO JOURNAL OF ORTHOPAEDIC RESEARCH
+AB Glucocorticoids (GCs) potentially regulate the proliferation,
+   differentiation, and premature senescence of bone marrow mesenchymal
+   stem/stromal cells (MSCs). In the present study we investigated the
+   effects mediated by endogenous GCs and the effects of an antagonist of
+   the glucocorticoid receptor, RU486, on the proliferative and
+   differentiation capabilities of MSCs using an ovariectomized (OVX)
+   animal model. Following ovariectomy and a decrease in systemic estradiol
+   levels, the serum concentration of corticosterone is significantly
+   increased in OVX rats. Compared to sham-operated controls, the total
+   superoxide dismutase (SOD) activity in serum of OVX rats and the
+   proliferation of their MSCs are significantly reduced. Furthermore, the
+   osteogenic differentiation capabilities of OVX rat MSCs are
+   significantly decreased, while adipogenic capabilities tend to increase.
+   Subcutaneous administration of RU486 effectively increases the
+   population and proliferative capacity of the MSCs in OVX rats. RU486
+   treatment also improves osteogenic capabilities and down-regulates
+   adipogenic capabilities of MSCs. These results strongly indicate that
+   the elevated levels of endogenous GCs induced by estrogen depletion
+   might accelerate the premature senescence of MSCs and reduce their
+   proliferative and osteogenic differentiation capabilities, while the
+   blockage of the effects of endogenous GCs may restore their
+   capabilities. These responses could potentially be developed to protect
+   the capabilities of MSCs from oxidative stress-induced premature
+   senescence and extend their lifespan in patients with advancing age and
+   estrogen depletion. (c) 2012 Orthopaedic Research Society. Published by
+   Wiley Periodicals, Inc. J Orthop Res 31: 760767, 2013
+SN 0736-0266
+PD MAY
+PY 2013
+VL 31
+IS 5
+BP 760
+EP 767
+UT CCC:000316970600015
+ER
+
+PT J
+AU Luan, ZG
+   Ma, XC
+   Zhang, H
+   Zhang, C
+   Guo, RX
+AF Luan, Zheng-Gang
+   Ma, Xiao-Chun
+   Zhang, Hao
+   Zhang, Cheng
+   Guo, Ren-Xuan
+TI Protective effect of ethyl pyruvate on pancreas injury in rats with
+   severe acute pancreatitis
+SO JOURNAL OF SURGICAL RESEARCH
+AB Background: Systemic inflammatory mediators have an important role in
+   the development of acute pancreatitis. In this study, we investigated
+   the effect of ethyl pyruvate (EP) on pancreas injury in rats with severe
+   acute pancreatitis (SAP) and its possible mechanism.
+   Methods: We randomly allocated rats into the following three
+   experimental groups: control and SAP-and EP-treated. Then, we recorded
+   the mortality rate. We harvested tissue specimens for morphological
+   studies, streptavidin-peroxidase immunohistochemistry examination, and
+   Western blot analysis. We tested the levels of pancreatic tissue
+   malondialdehyde and the activity of serum amylase, myeloperoxidase in
+   the pancreas. In addition, we studied nuclear factor-kappa B (NF-kappa
+   B) activation, tumor necrosis factor-alpha levels, and high mobility
+   group box 1 protein expression levels in the pancreas.
+   Results: Treatment with EP after SAP was associated with a reduction in
+   the severity of SAP and pancreas injury. Treatment with EP significantly
+   decreased the expression of tumor necrosis factor-alpha and high
+   mobility group box 1, and ameliorated malondialdehyde concentration and
+   myeloperoxidase activity in the pancreas in SAP rats. Compared with the
+   SAP group, treatment with EP significantly decreased the number of
+   inflammatory cell infiltration, markedly inhibited pancreatic NF-kappa B
+   DNA binding, and increased the survival rates.
+   Conclusions: This study demonstrates that preventing the activation of
+   NF-kappa B by EP ameliorates tissue injury associated with experimental
+   murine acute pancreatitis. This result provides an important insight
+   into the molecular biology of acute pancreatitis. (C) 2013 Elsevier Inc.
+   All rights reserved.
+SN 0022-4804
+PD MAY
+PY 2013
+VL 181
+IS 1
+BP 76
+EP 84
+UT CCC:000316788400021
+ER
+
+PT J
+AU Irfan, M
+   Farooqi, J
+   Hasan, R
+AF Irfan, Muhammad
+   Farooqi, Joveria
+   Hasan, Rumina
+TI Community-acquired pneumonia
+SO CURRENT OPINION IN PULMONARY MEDICINE
+AB Purpose of review
+   Community-acquired pneumonia (CAP) contributes significantly to
+   morbidity and mortality, especially in the elderly. Recent advances
+   aimed at improving outcomes and reducing CAP disease burden are
+   summarized.
+   Recent findings
+   Emerging data suggests that newer CAP risk stratification indices based
+   on disease severity hold promise in predicting intensive care need.
+   Additional evidence supports a role of procalcitonin and
+   pro-adrenomedullin as biomarkers of disease severity and for guiding
+   antimicrobial therapy. New diagnostic tools have greatly contributed to
+   early diagnosis and better-targeted therapy. There is increasing
+   recognition of the role of coinfections in CAP. In patients with severe
+   disease, therefore, current guidelines advise against monotherapy.
+   Although inclusion of coverage for atypical pathogens in nonsevere CAP
+   has been challenged, evidence suggests that such coverage is beneficial
+   in patients with severe disease. Use of steroids as adjunctive therapy
+   for CAP, however, is associated with complications and prolonged
+   hospitalization. Updated prevention strategies include approval of
+   pneumococcal conjugate vaccine (PCV13) for adults at risk.
+   Summary
+   Despite these developments research aimed at further reducing
+   CAP-related morbidity and mortality is required. Increasing global life
+   expectancy is likely to expand the at-risk population; therefore,
+   research directed at CAP prevention in view of changing demography is
+   essential.
+SN 1070-5287
+PD MAY
+PY 2013
+VL 19
+IS 3
+BP 198
+EP 208
+UT CCC:000316733900003
+ER
+
+EF
