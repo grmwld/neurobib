@@ -1,56 +1,6 @@
 ﻿FN Thomson Reuters Web of Knowledge
 VR 1.0
 PT	J
-AU	Perry, AS
-   O'Hurley, G
-   Raheem, OA
-   Brennan, K
-   Wong, S
-   O'Grady, A
-   Kennedy, AM
-   Marignol, L
-   Murphy, TM
-   Sullivan, L
-   Barrett, C
-   Loftus, B
-   Thornhill, J
-   Hewitt, SM
-   Lawler, M
-   Kay, E
-   Lynch, T
-   Hollywood, D
-AF	Perry, A. S.
-   O'Hurley, G.
-   Raheem, O. A.
-   Brennan, K.
-   Wong, S.
-   O'Grady, A.
-   Kennedy, A. M.
-   Marignol, L.
-   Murphy, T. M.
-   Sullivan, L.
-   Barrett, C.
-   Loftus, B.
-   Thornhill, J.
-   Hewitt, S. M.
-   Lawler, M.
-   Kay, E.
-   Lynch, T.
-   Hollywood, D.
-TI	Gene expression and epigenetic discovery screen reveal methylation of
-   SFRP2 in prostate cancer (vol 15, pg 1771, 2013)
-SO	INTERNATIONAL JOURNAL OF CANCER
-SN	0020-7136
-PD	JUN
-PY	2013
-VL	132
-IS	11
-BP	E163
-EP	E163
-UT	CCC:000316824000001
-ER
-
-PT	J
 AU	Bougen, NM
    Amiry, N
    Yuan, Y
@@ -282,27 +232,6 @@ IS	3
 BP	214
 EP	223
 UT	CCC:000316975400010
-ER
-
-PT	J
-AU	Lipka, S
-   Katz, S
-   Kaur, N
-AF	Lipka, Seth
-   Katz, Seymour
-   Kaur, Navroop
-TI	"One more time" 5-ASA retrial after a glucocorticosteroid induced
-   remission in moderate to severe ulcerative colitis: A prospective
-   community practice experience
-SO	JOURNAL OF CROHNS & COLITIS
-SN	1873-9946
-PD	MAY
-PY	2013
-VL	7
-IS	4
-BP	342
-EP	343
-UT	CCC:000316975700012
 ER
 
 PT	J
